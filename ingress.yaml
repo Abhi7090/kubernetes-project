@@ -5,7 +5,7 @@ metadata:
   namespace: django-todo-app
 spec:
   rules:
-  - host: "django-todo-example-batch-2.info"
+  - host: "django-todo-example-batch-5.info"
     http:
       paths:
         - pathType: Prefix
